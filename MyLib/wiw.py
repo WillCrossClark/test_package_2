@@ -1,3 +1,5 @@
+import requests
+
 def get_user():
     print('this would get a user')
 
